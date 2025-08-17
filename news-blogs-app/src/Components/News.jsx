@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import Weather from './Weather'
-import Calendar from './calendar'
+import Calendar from './Calendar'
 import userImg from '../assets/images/user.jpeg'
 import techImg from '../assets/images/techImg.jpeg'
 import sportImg from '../assets/images/sport.jpeg'
