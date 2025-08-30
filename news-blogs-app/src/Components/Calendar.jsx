@@ -24,7 +24,7 @@ const Calendar = () => {
   }
 
   return (
-    <div className="Calendar">
+    <div className="calendar">
       <div className="navigate-date">
         <h2 className="month">{monthsOfYear[currentMonth]},</h2>
         <h2 className="year">{currentYear}</h2>
